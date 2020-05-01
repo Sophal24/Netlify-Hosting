@@ -1,4 +1,4 @@
-# netlify
+# Netlify Class
 Test Hosting static website on NETLIFY. 
 
 Step1: Create a folder and create html file in that folder
